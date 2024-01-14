@@ -1,0 +1,50 @@
+---
+# CHW configuration for memenet
+
+arch: planeshipnet
+dataset: planeships
+
+# Define layer parameters in order of the layer sequence
+layers:
+  - pad: 1
+    activate: ReLU
+    out_offset: 0x2000
+    processors: 0x0000.0000.0000.0007
+    data_format: HWC
+    op: conv2d
+    
+  - pad: 1
+    max_pool: 2
+    pool_stride: 2
+    activate: ReLU
+    out_offset: 0
+    in_channels: 24
+    processors: 0xffff.ff00.0000.0000  #24 processors (6x4) (f = 1111.)
+    op: conv2d
+    kernel_size: 3x3
+
+  
+  - pad: 1
+    max_pool: 2
+    pool_stride: 2
+    activate: ReLU
+    out_offset: 0x2000
+    processors: 0xffff.ffff.0000.0000  #32 processors (8x4)
+    in_channels: 32
+    op: conv2d
+    kernel_size: 3x3
+    
+#Linear:
+  #########################
+  - op: mlp
+    out_offset: 0
+    flatten: true
+    output_width: 8
+    processors: 0x0000.00ff.ffff.ffff  #40 processors (10x4)
+
+
+  - op: mlp
+    out_offset: 0x2000
+    output_width: 32 
+    processors: 0xffff.ffff.ffff.ffff #64 processors (16x4)
+
