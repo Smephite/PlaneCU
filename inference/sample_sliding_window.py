@@ -37,7 +37,7 @@ if __name__ == '__main__':
     plt.show(block=False)
 
 
-    image_path = "/media/alessandro/Volume/Dokumente/ETH/ML/Plane_Image_Classification/planeships.png"  
+    image_path = "./planeships.png"  
     image = Image.open(image_path)
 
     image = np.array(image)
