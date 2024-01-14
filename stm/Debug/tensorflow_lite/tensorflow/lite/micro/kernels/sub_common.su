@@ -1,0 +1,2 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/sub_common.cc:36:14:TfLiteStatus tflite::CalculateOpDataSub(TfLiteContext*, TfLiteSubParams*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, tflite::OpDataSub*)	56	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/sub_common.cc:79:14:TfLiteStatus tflite::SubPrepare(TfLiteContext*, TfLiteNode*)	40	static

@@ -1,0 +1,4 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/floor_mod.cc:64:7:void* tflite::{anonymous}::Init(TfLiteContext*, const char*, size_t)	0	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/floor_mod.cc:68:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	48	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/floor_mod.cc:98:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	408	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/floor_mod.cc:123:20:TfLiteRegistration tflite::Register_FLOOR_MOD()	16	static

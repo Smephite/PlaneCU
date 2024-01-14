@@ -1,0 +1,3 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/round.cc:31:14:TfLiteStatus tflite::ops::micro::round::Prepare(TfLiteContext*, TfLiteNode*)	48	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/round.cc:55:14:TfLiteStatus tflite::ops::micro::round::Eval(TfLiteContext*, TfLiteNode*)	88	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/round.cc:70:20:TfLiteRegistration tflite::ops::micro::Register_ROUND()	16	static

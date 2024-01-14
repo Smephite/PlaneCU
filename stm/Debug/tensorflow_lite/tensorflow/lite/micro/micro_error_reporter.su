@@ -1,0 +1,6 @@
+/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/tensorflow_lite/tensorflow/lite/micro/micro_error_reporter.h:47:3:tflite::MicroErrorReporter::~MicroErrorReporter()	0	static
+../tensorflow_lite/tensorflow/lite/micro/micro_error_reporter.cc:31:6:void {anonymous}::Log(const char*, va_list)	264	static
+/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/tensorflow_lite/tensorflow/lite/micro/micro_error_reporter.h:47:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	8	static
+../tensorflow_lite/tensorflow/lite/micro/micro_error_reporter.cc:63:5:virtual int tflite::MicroErrorReporter::Report(const char*, va_list)	264	static
+../tensorflow_lite/tensorflow/lite/micro/micro_error_reporter.cc:47:6:)	16	static
+../tensorflow_lite/tensorflow/lite/micro/micro_error_reporter.cc:56:16:tflite::ErrorReporter* tflite::GetMicroErrorReporter()	0	static

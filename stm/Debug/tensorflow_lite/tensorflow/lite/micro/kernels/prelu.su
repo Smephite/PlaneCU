@@ -1,0 +1,4 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/prelu.cc:29:7:void* tflite::PreluInit(TfLiteContext*, const char*, size_t)	8	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/prelu.cc:70:20:TfLiteRegistration tflite::Register_PRELU()	16	static
+/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/tensorflow_lite/tensorflow/lite/kernels/internal/reference/prelu.h:30:13:void tflite::reference_ops::BroadcastPrelu4DSlow(const tflite::PreluParams&, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, T*) [with T = signed char]	312	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/prelu.cc:34:14:TfLiteStatus tflite::PreluEval(TfLiteContext*, TfLiteNode*)	192	static

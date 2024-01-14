@@ -1,0 +1,2 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/neg.cc:30:14:TfLiteStatus tflite::ops::micro::neg::Eval(TfLiteContext*, TfLiteNode*)	64	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/neg.cc:53:20:TfLiteRegistration tflite::ops::micro::Register_NEG()	16	static

@@ -1,0 +1,3 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/space_to_depth.cc:35:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	64	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/space_to_depth.cc:87:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	296	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/space_to_depth.cc:122:20:TfLiteRegistration tflite::Register_SPACE_TO_DEPTH()	16	static
