@@ -1,6 +1,6 @@
 ../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:210:7:void* tflite::InitAdd(TfLiteContext*, const char*, size_t)	8	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:215:14:TfLiteStatus tflite::PrepareAdd(TfLiteContext*, TfLiteNode*)	88	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:105:6:void tflite::{anonymous}::EvalAddFloat(TfLiteContext*, TfLiteNode*, TfLiteAddParams*, const tflite::{anonymous}::OpData*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	448	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:130:14:TfLiteStatus tflite::{anonymous}::EvalAddQuantized(TfLiteContext*, TfLiteNode*, TfLiteAddParams*, const tflite::{anonymous}::OpData*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	976	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:130:14:TfLiteStatus tflite::{anonymous}::EvalAddQuantized(TfLiteContext*, TfLiteNode*, TfLiteAddParams*, const tflite::{anonymous}::OpData*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	968	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:244:14:TfLiteStatus tflite::EvalAdd(TfLiteContext*, TfLiteNode*)	24	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/add.cc:271:20:TfLiteRegistration tflite::Register_ADD()	16	static

@@ -1,5 +1,5 @@
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/tensorflow_lite/tensorflow/lite/micro/memory_planner/micro_memory_planner.h:64:24:virtual TfLiteStatus tflite::MicroMemoryPlanner::AddBuffer(tflite::ErrorReporter*, int, int, int, int)	0	static
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/tensorflow_lite/tensorflow/lite/micro/memory_planner/micro_memory_planner.h:83:24:virtual TfLiteStatus tflite::MicroMemoryPlanner::Init(unsigned char*, int)	0	static
+/home/kai/Documents/workspace/PlaneCU/stm/tensorflow_lite/tensorflow/lite/micro/memory_planner/micro_memory_planner.h:64:24:virtual TfLiteStatus tflite::MicroMemoryPlanner::AddBuffer(tflite::ErrorReporter*, int, int, int, int)	0	static
+/home/kai/Documents/workspace/PlaneCU/stm/tensorflow_lite/tensorflow/lite/micro/memory_planner/micro_memory_planner.h:83:24:virtual TfLiteStatus tflite::MicroMemoryPlanner::Init(unsigned char*, int)	0	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_allocator.cc:63:9:virtual void* tflite::{anonymous}::MicroBuiltinDataAllocator::Allocate(size_t, size_t)	0	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_allocator.cc:67:8:virtual void tflite::{anonymous}::MicroBuiltinDataAllocator::Deallocate(void*)	0	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_allocator.cc:381:1:tflite::MicroAllocator::~MicroAllocator()	0	static

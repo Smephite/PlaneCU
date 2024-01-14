@@ -1,7 +1,7 @@
 ../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:53:1:tflite::MicroGraph::~MicroGraph()	0	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:219:5:virtual int tflite::MicroGraph::NumSubgraphs()	0	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:53:1:virtual tflite::MicroGraph::~MicroGraph()	8	static
-../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:55:14:virtual TfLiteStatus tflite::MicroGraph::InitSubgraphs()	40	static
+../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:55:14:virtual TfLiteStatus tflite::MicroGraph::InitSubgraphs()	48	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:119:14:virtual TfLiteStatus tflite::MicroGraph::FreeSubgraphs()	32	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:89:14:virtual TfLiteStatus tflite::MicroGraph::PrepareSubgraphs()	40	static
 ../tensorflow_lite/tensorflow/lite/micro/micro_graph.cc:145:14:virtual TfLiteStatus tflite::MicroGraph::InvokeSubgraph(int)	48	static

@@ -6,11 +6,11 @@ Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.o: \
  ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h \
  ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h \
  ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l475xx.h \
- /home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/core_cm4.h \
- /home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/cmsis_version.h \
- /home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/cmsis_compiler.h \
- /home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/cmsis_gcc.h \
- /home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/mpu_armv7.h \
+ /home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/core_cm4.h \
+ /home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/cmsis_version.h \
+ /home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/cmsis_compiler.h \
+ /home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/cmsis_gcc.h \
+ /home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/mpu_armv7.h \
  ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h \
  ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
  ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h \
@@ -34,11 +34,11 @@ Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.o: \
 ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h:
 ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h:
 ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l475xx.h:
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/core_cm4.h:
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/cmsis_version.h:
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/cmsis_compiler.h:
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/cmsis_gcc.h:
-/home/kai/Documents/university/polybox/Semester/HS23/MLonMCU/Exercise6/image_classification/Drivers/CMSIS/Core/Include/mpu_armv7.h:
+/home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/core_cm4.h:
+/home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/cmsis_version.h:
+/home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/cmsis_compiler.h:
+/home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/cmsis_gcc.h:
+/home/kai/Documents/workspace/PlaneCU/stm/Drivers/CMSIS/Core/Include/mpu_armv7.h:
 ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h:
 ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
 ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h:

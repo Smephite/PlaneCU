@@ -1,4 +1,4 @@
 ../tensorflow_lite/tensorflow/lite/micro/kernels/elu.cc:107:7:void* tflite::{anonymous}::EluInit(TfLiteContext*, const char*, size_t)	8	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/elu.cc:115:14:TfLiteStatus tflite::{anonymous}::EluPrepare(TfLiteContext*, TfLiteNode*)	56	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/elu.cc:115:14:TfLiteStatus tflite::{anonymous}::EluPrepare(TfLiteContext*, TfLiteNode*)	80	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/elu.cc:119:14:TfLiteStatus tflite::{anonymous}::EluEval(TfLiteContext*, TfLiteNode*)	120	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/elu.cc:146:20:TfLiteRegistration tflite::Register_ELU()	16	static

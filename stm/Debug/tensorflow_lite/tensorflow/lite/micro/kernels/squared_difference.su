@@ -1,4 +1,4 @@
 ../tensorflow_lite/tensorflow/lite/micro/kernels/squared_difference.cc:41:7:void* tflite::{anonymous}::SquaredDifferenceInit(TfLiteContext*, const char*, size_t)	8	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/squared_difference.cc:47:14:TfLiteStatus tflite::{anonymous}::SquaredDifferencePrepare(TfLiteContext*, TfLiteNode*)	80	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/squared_difference.cc:214:14:TfLiteStatus tflite::{anonymous}::SquaredDifferenceEval(TfLiteContext*, TfLiteNode*)	960	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/squared_difference.cc:214:14:TfLiteStatus tflite::{anonymous}::SquaredDifferenceEval(TfLiteContext*, TfLiteNode*)	952	static
 ../tensorflow_lite/tensorflow/lite/micro/kernels/squared_difference.cc:242:20:TfLiteRegistration tflite::Register_SQUARED_DIFFERENCE()	16	static
