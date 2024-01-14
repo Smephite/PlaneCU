@@ -1,4 +1,0 @@
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cc:106:20:TfLiteRegistration tflite::Register_MUL()	16	static
-/home/kai/Documents/workspace/PlaneCU/stm/tensorflow_lite/tensorflow/lite/kernels/internal/reference/integer_ops/mul.h:91:13:void tflite::reference_integer_ops::BroadcastMul4DSlow(const tflite::ArithmeticParams&, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, T*) [with T = signed char]	312	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cc:31:6:void tflite::{anonymous}::EvalQuantized(TfLiteContext*, TfLiteNode*, const tflite::OpDataMul*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	448	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cc:72:14:TfLiteStatus tflite::Eval(TfLiteContext*, TfLiteNode*)	48	static

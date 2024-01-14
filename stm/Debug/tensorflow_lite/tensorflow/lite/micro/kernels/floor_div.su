@@ -1,4 +1,0 @@
-../tensorflow_lite/tensorflow/lite/micro/kernels/floor_div.cc:59:7:void* tflite::{anonymous}::Init(TfLiteContext*, const char*, size_t)	0	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/floor_div.cc:63:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	48	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/floor_div.cc:103:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	432	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/floor_div.cc:125:20:TfLiteRegistration tflite::Register_FLOOR_DIV()	16	static

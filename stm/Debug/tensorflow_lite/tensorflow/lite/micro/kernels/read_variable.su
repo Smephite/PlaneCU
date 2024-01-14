@@ -1,3 +1,0 @@
-../tensorflow_lite/tensorflow/lite/micro/kernels/read_variable.cc:38:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	16	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/read_variable.cc:56:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	16	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/read_variable.cc:83:20:TfLiteRegistration tflite::Register_READ_VARIABLE()	16	static

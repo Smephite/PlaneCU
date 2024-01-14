@@ -1,9 +1,0 @@
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:34:14:TfLiteStatus tflite::PrepareSimple(TfLiteContext*, TfLiteNode*, int32_t*, int*)	64	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:67:14:TfLiteStatus tflite::PrepareMaxHelper(TfLiteContext*, TfLiteNode*, tflite::OpDataReduce*)	40	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:93:14:TfLiteStatus tflite::PrepareMeanOrSumHelper(TfLiteContext*, TfLiteNode*, tflite::OpDataReduce*)	40	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:123:6:void tflite::ResolveAxis(const int*, int, tflite::MeanParams*)	4	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:257:14:TfLiteStatus tflite::EvalMaxHelper(TfLiteContext*, TfLiteNode*, tflite::OpDataReduce*)	96	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:311:14:TfLiteStatus tflite::EvalSumHelper(TfLiteContext*, TfLiteNode*, tflite::OpDataReduce*)	144	static
-/home/kai/Documents/workspace/PlaneCU/stm/tensorflow_lite/tensorflow/lite/kernels/internal/reference/integer_ops/mean.h:26:13:void tflite::reference_integer_ops::Mean(const tflite::MeanParams&, int32_t, int32_t, const tflite::RuntimeShape&, const integer_type*, int32_t, const tflite::RuntimeShape&, integer_type*, int32_t) [with integer_type = signed char]	152	static
-/home/kai/Documents/workspace/PlaneCU/stm/tensorflow_lite/tensorflow/lite/kernels/internal/reference/integer_ops/mean.h:26:13:void tflite::reference_integer_ops::Mean(const tflite::MeanParams&, int32_t, int32_t, const tflite::RuntimeShape&, const integer_type*, int32_t, const tflite::RuntimeShape&, integer_type*, int32_t) [with integer_type = short int]	160	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/reduce_common.cc:135:14:TfLiteStatus tflite::EvalMeanHelper(TfLiteContext*, TfLiteNode*, tflite::OpDataReduce*)	352	static

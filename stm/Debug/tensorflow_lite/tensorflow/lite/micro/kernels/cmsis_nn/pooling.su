@@ -1,7 +1,0 @@
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:140:7:void* tflite::{anonymous}::Init(TfLiteContext*, const char*, size_t)	8	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:145:14:TfLiteStatus tflite::{anonymous}::MaxPrepare(TfLiteContext*, TfLiteNode*)	8	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:152:14:TfLiteStatus tflite::{anonymous}::AveragePrepare(TfLiteContext*, TfLiteNode*)	80	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:218:14:TfLiteStatus tflite::{anonymous}::MaxEval(TfLiteContext*, TfLiteNode*)	176	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:189:14:TfLiteStatus tflite::{anonymous}::AverageEval(TfLiteContext*, TfLiteNode*)	176	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:248:20:TfLiteRegistration tflite::Register_AVERAGE_POOL_2D()	16	static
-../tensorflow_lite/tensorflow/lite/micro/kernels/cmsis_nn/pooling.cc:252:20:TfLiteRegistration tflite::Register_MAX_POOL_2D()	16	static

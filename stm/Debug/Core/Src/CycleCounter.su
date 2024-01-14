@@ -1,4 +1,0 @@
-../Core/Src/CycleCounter.c:3:6:ResetTimer	4	static
-../Core/Src/CycleCounter.c:12:6:StartTimer	0	static
-../Core/Src/CycleCounter.c:16:6:StopTimer	0	static
-../Core/Src/CycleCounter.c:20:14:getCycles	0	static
