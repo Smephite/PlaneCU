@@ -123,7 +123,7 @@ if __name__ == '__main__':
     canvas = np.zeros((width, height, 3), dtype=np.uint8)
 
     # Define the step size for extracting patches
-    step_size = 7
+    step_size = 7 if not maxim else 10
 
     patch_size = 20
 
